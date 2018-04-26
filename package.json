@@ -1,0 +1,24 @@
+{
+  "name": "auto_goldplus",
+  "version": "1.0.0",
+  "description": "Template of MercerOS automation Protractor/Jasmine framework",
+  "repository": "TODO",
+  "author": "Webber.ling@mercer.com",
+  "license": "MIT",
+  "devDependencies": {
+    "dateformat": "^2.0.0",
+    "geckodriver": "^1.6.1",
+    "iedriver": "^3.3.1-rc.1",
+    "jasmine": "^2.6.0",
+    "protractor": "^5.1.2",
+    "protractor-helpers": "^1.1.0",
+    "protractor-jasmine2-screenshot-reporter": "^0.3.5",
+    "protractor-take-screenshots-on-demand": "^1.2.0",
+    "shelljs": "^0.7.8",
+    "xlsx": "^0.10.8"
+  },
+  "dependencies": {
+    "superspawn": "^0.1.0",
+    "xlsx": "^0.10.8"
+  }
+}
