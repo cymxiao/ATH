@@ -1,5 +1,5 @@
 ### Wealth IT MercerOS Node.JS / Protractor / Jasmine project template
-2017-May-28    Webber.Ling@mercer.com
+2017-May-28 
 
 
 ### Note:
